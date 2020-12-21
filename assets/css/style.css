@@ -1,0 +1,53 @@
+label{
+  font-weight: bold ;
+}
+
+.cardType{
+  font-weight: bold ;
+}
+
+#partOne { 
+
+  font-size: bold;
+  background-color: #2574A9;
+  padding: 20px;
+   }
+
+#legendOne {
+
+font-weight: bold;  
+background-color: #2574A9;
+
+}
+
+#partTwo { 
+ 
+  font-size: bold;
+  background-color: #9A12B3;
+  padding: 20px;
+
+   }
+
+#legendTwo {
+
+font-weight: bold;  
+background-color:#9A12B3;
+}
+
+#partThree { 
+ 
+  font-size: medium;
+  background-color:#DB0A5B;
+  padding: 20px;
+}
+
+#legendThree {
+
+font-weight: bold;  
+background-color:#DB0A5B;
+  }
+
+
+
+
+        
